@@ -1,10 +1,11 @@
 
 # Airline Passenger Satisfaction Analysis
 
+![GitHub repo size](https://img.shields.io/github/repo-size/aryakghosal/airline-passenger-satisfaction-analysis?logo=github)
+![GitHub last commit](https://custom-icon-badges.demolab.com/github/last-commit/aryakghosal/airline-passenger-satisfaction-analysis?logo=history&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=github)
 
-
-
-![Banner]()
+![Banner](Images/Image-1.jpg)
 
 ## Contents
 
@@ -24,7 +25,7 @@
 
 Analyzed an Airline Passenger Satisfaction dataset, identifying the key factors that were contributing to a recent dip in customer satisfaction rates by designing a Power BI dashboard report and recommending a data-driven strategy for increasing overall satisfaction rates. The insights gained from this project helped the airline take necessary action to improve their customer satisfaction rates and enhance the overall travel experience for passengers.
 
-![Image2]()
+![Image2](Images/Image-2.jpg)
 
 ## Project Details
 
@@ -90,12 +91,12 @@ KPIs are measurable values that organizations use to track and evaluate their pr
 
 #
 
-![Image3]()
+![Image3](Images/Image-3.jpg)
 
 ## Data Collection
 
-The dataset was taken from the Data Playground of Maven Analytics as a CSV file and it contains Airline Satisfaction Scores for 129,880 passengers spread across 24 fields. Each record represents one passenger and each record contains details about passenger demographics, flight distance and delays, travel class and purpose, and ratings for factors like cleanliness, comfort, and service, as well as overall satisfaction with the airline. \
-**Link:** 
+The dataset was taken from the [Data Playground](https://www.mavenanalytics.io/data-playground) of **Maven Analytics** as a CSV file and it contains Airline Satisfaction Scores for 129,880 passengers spread across 24 fields. Each record represents one passenger and each record contains details about passenger demographics, flight distance and delays, travel class and purpose, and ratings for factors like cleanliness, comfort, and service, as well as overall satisfaction with the airline. \
+**Link:** [Dataset](Dataset/)
 
 ## Skills
 
@@ -124,7 +125,7 @@ The dataset was taken from the Data Playground of Maven Analytics as a CSV file 
 
 #
 
-![Image4]()
+![Image4](Images/Image-4.jpg)
 
 ## Insights & Recommendations
 
@@ -152,6 +153,15 @@ The dataset was taken from the Data Playground of Maven Analytics as a CSV file 
 
 ## Dashboard
 
+![Home](Images/1-Home.jpg)
+![Passengers](Images/2-Passengers.jpg)
+![KeyMetrics](Images/3-KeyMetrics.jpg)
+![Overview](Images/4-Overview.jpg)
+![SlicerPage1](Images/5-SlicerPage1.jpg)
+![SlicerPage2](Images/6-SlicerPage2.jpg)
+![SlicerPage3](Images/7-SlicerPage3.jpg)
+
+[Link to the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGRjOTFhOWMtOWFiYS00NWQ0LWJlNmUtNGZjMTUzZGQ1ZDY1IiwidCI6ImFhODMxNTE3LTU2ZTQtNGM4MS1iNTViLTYxZTk1MjQwMGE1MCJ9)
 
 ## Conclusion
 

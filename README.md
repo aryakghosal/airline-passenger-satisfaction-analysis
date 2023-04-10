@@ -6,7 +6,8 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=github)
 
 ![Banner](Images/Image-1.jpg)
-<small style="font-size: 8px">(Source: [Freepik](https://www.freepik.com/))</small>
+<small style="font-size: 8px;">(Source: <a href="https://www.freepik.com/" target="_blank">Freepik</a>)</small>
+
 
 
 
@@ -32,7 +33,7 @@ Analyzed an Airline Passenger Satisfaction dataset, identifying the key factors 
 #
 
 ![Image2](Images/Image-2.jpg)
-<small style="font-size: 8px">(Source: [Freepik](https://www.freepik.com/))</small>
+<small style="font-size: 8px;">(Source: <a href="https://www.freepik.com/" target="_blank">Freepik</a>)</small>
 
 
 
@@ -101,7 +102,7 @@ KPIs are measurable values that organizations use to track and evaluate their pr
 #
 
 ![Image3](Images/Image-3.jpg)
-<small style="font-size: 8px">(Source: [Freepik](https://www.freepik.com/))</small>
+<small style="font-size: 8px;">(Source: <a href="https://www.freepik.com/" target="_blank">Freepik</a>)</small>
 
 
 
@@ -138,7 +139,7 @@ The dataset was taken from the [Data Playground](https://www.mavenanalytics.io/d
 #
 
 ![Image4](Images/Image-4.jpg)
-<small style="font-size: 8px">(Source: [Freepik](https://www.freepik.com/))</small>
+<small style="font-size: 8px;">(Source: <a href="https://www.freepik.com/" target="_blank">Freepik</a>)</small>
 
 
 
